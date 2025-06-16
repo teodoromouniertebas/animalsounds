@@ -11,6 +11,9 @@ animal_sounds(animal, sound)
 
 \item{sound}{A character string representing the sound the animal makes}
 }
+\value{
+A character string describing the sound the animal makes
+}
 \description{
 Print the Sound than an Animal makes
 }
