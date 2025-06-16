@@ -1,3 +1,12 @@
+#' Print the Sound than an Animal makes
+#'
+#' @param animal  A character string representing the animal
+#' @param sound A character string representing the sound the animal makes
+#'
+#' @export
+#'
+#' @examples
+#' animal_sounds("dog", "woof")
 animal_sounds <- function(animal, sound) {
     stopifnot(is.character(animal) & length(animal) == 1)
     stopifnot(is.character(sound) & length(sound) == 1)
