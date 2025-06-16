@@ -15,7 +15,7 @@ animal_sounds(animal, sound)
 A character string describing the sound the animal makes
 }
 \description{
-Print the Sound than an Animal makes
+have to \strong{insall} the package first \code{\link[base:paste]{base::paste0()}}
 }
 \examples{
 animal_sounds("dog", "woof")

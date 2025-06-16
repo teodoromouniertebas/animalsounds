@@ -1,5 +1,8 @@
 #' Print the Sound than an Animal makes
 #'
+#' have to **insall** the package first [base::paste0()]
+#'
+#'
 #' @param animal  A character string representing the animal
 #' @param sound A character string representing the sound the animal makes
 #'
