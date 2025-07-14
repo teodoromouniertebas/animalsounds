@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/teodoromouniertebas/animalsounds/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/teodoromouniertebas/animalsounds/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of animalsounds is to print the animal sound next to the animal
