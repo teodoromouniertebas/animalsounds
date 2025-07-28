@@ -1,3 +1,7 @@
+#' dataset
+#'
+#' A dataset of the sounds that makes animal
+#'
 #' @format A dataframe with 3 rows
 #' \describe{
 #' \item{animal}{the name of the animal}

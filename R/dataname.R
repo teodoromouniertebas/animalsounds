@@ -8,4 +8,5 @@
 #'   \item{letter}{The letter as a character string.}
 #'   \item{index}{The corresponding numeric index.}
 #' }
-"letter_indices"
+#' 
+"dataname"
