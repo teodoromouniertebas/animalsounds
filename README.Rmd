@@ -21,6 +21,8 @@ knitr::opts_chunk$set(
 
 The goal of animalsounds is to print the animal sound next to the animal name.
 
+[https://forwards.github.io/package-dev/modules.html](https://forwards.github.io/package-dev/modules.html) 
+
 ## Installation
 
 You can install the development version of animalsounds from [GitHub](https://github.com/) with:
